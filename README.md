@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🌷 Oi, eu sou a Jéssica!
 
-<!--
-**Jessica-027/Jessica-027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧸 Iniciante em Front-end na área de tecnologia  
+📓 Estudando HTML, CSS e fundamentos web  
+🎀 Pequenos projetos, grandes aprendizados  
+🌸 Evoluindo aos poucos, um commit por vez  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Meu tempo de estudo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=buefy&hide_border=true&locale=pt-br&hide_username=true" />
+</p>
