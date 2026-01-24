@@ -9,5 +9,5 @@
 
 ### 📖 Meu tempo de estudo
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=buefy&hide_border=true&locale=pt-br&hide_username=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=highcontrast&hide_border=true&locale=pt-br&hide_username=true" />
 </p>
