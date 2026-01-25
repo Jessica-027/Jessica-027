@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=dracula&hide_border=true&hide_username=true&title=Tempo%20de%20estudo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-027&layout=compact&theme=dracula&hide_border=true&title=Linguagens%20mais%20usadas" />
+
 </p>
 
 #
