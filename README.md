@@ -1,21 +1,23 @@
 ## 🌷 Oi, eu sou a Jéssica!
 
 🧸 Iniciante em Front-end na área de tecnologia  
-📓 Estudando HTML, CSS e fundamentos web  
+📓 Estudando HTML, CSS e fundamentos da Web  
 🎀 Pequenos projetos, grandes aprendizados  
 🌸 Evoluindo aos poucos, um commit por vez  
 
 ---
 
-### 📖 Meu tempo de estudo
+## ⭐ Meu estudo em prática
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=highcontrast&hide_border=true&locale=pt-br&hide_username=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=dracula&hide_border=true&hide_username=true&title=Tempo%20de%20estudo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jessica-027&layout=compact&theme=dracula&hide_border=true&title=Linguagens%20mais%20usadas" />
 </p>
 
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessica-027/jessica-027/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessica-027/jessica-027/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessica-027/jessica-027/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jessica-027/Jessica-027/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jessica-027/Jessica-027/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="animação da cobra de contribuições do GitHub" src="https://raw.githubusercontent.com/Jessica-027/Jessica-027/output/github-contribution-grid-snake.svg">
 </picture>
