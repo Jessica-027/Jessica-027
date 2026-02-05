@@ -5,14 +5,6 @@
 🎀 Pequenos projetos, grandes aprendizados  
 🌸 Evoluindo aos poucos, um commit por vez  
 
----
-
-## ⭐ Meu estudo em prática
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessica027&theme=dracula&hide_border=true&hide_username=true&title=Tempo%20de%20estudo" />
-
-</p>
 
 #
 
