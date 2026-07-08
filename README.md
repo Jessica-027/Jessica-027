@@ -1,6 +1,10 @@
-<h1 align="center">🌷 Oi, eu sou a Jéssica!</h1>
+# 🌷 Oi, eu sou a Jéssica!
 
-<p align="center"> 🩷 Uma iniciante apaixonada por Frontend <br> 💻 Aprendendo a transformar linhas de código em experiências bonitas <br> 🌸 Estudando HTML, CSS e JavaScript com muita curiosidade <br> ✨ Criando meus primeiros projetos e descobrindo o universo da programação <br> 🌱 Evoluindo um pouquinho todos os dias, um commit por vez </p>
+🩷 Iniciante apaixonada por Frontend  
+💻 Aprendendo a transformar código em experiências digitais bonitas  
+🌸 Estudando HTML, CSS e JavaScript com muita curiosidade  
+✨ Criando meus primeiros projetos e evoluindo na programação  
+🌱 Um passo de cada vez, um commit por vez
 
 #
 
