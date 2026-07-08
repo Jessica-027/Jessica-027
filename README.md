@@ -1,10 +1,11 @@
 ## ☁️ Oi, eu sou a Jéssica!
+🌷 Oi, eu sou a Jéssica!
 
-🧠 Iniciante em Backend  
-🐍 Estudando Python e lógica de programação  
-☁️ Caminhando para Cloud Computing (AWS)  
-📦 Construindo APIs e projetos backend  
-🌱 Evoluindo um passo de cada vez, um commit por vez  
+🩷 Uma iniciante apaixonada por Frontend
+💻 Aprendendo a transformar linhas de código em experiências bonitas
+🌸 Estudando HTML, CSS e JavaScript com muita curiosidade
+✨ Criando meus primeiros projetos e descobrindo o universo da programação
+🌱 Evoluindo um pouquinho todos os dias, um commit por vez
 
 #
 
