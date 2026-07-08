@@ -1,4 +1,3 @@
-## ☁️ Oi, eu sou a Jéssica!
 🌷 Oi, eu sou a Jéssica!
 
 🩷 Uma iniciante apaixonada por Frontend
