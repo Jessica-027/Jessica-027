@@ -1,9 +1,9 @@
 # 🌷 Oi, eu sou a Jéssica!
 
-🩷 Iniciante apaixonada por Frontend  
-💻 Aprendendo a transformar código em experiências digitais bonitas  
-🌸 Estudando HTML, CSS e JavaScript com muita curiosidade  
-✨ Criando meus primeiros projetos e evoluindo na programação  
+🩷 Desenvolvedora Frontend em formação  
+💻 Transformando ideias em experiências digitais através do código  
+🌸 Estudando HTML, CSS e JavaScript com foco em desenvolvimento web  
+✨ Criando projetos para evoluir minhas habilidades e construir meu portfólio  
 🌱 Um passo de cada vez, um commit por vez
 
 #
