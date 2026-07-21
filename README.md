@@ -1,10 +1,18 @@
 # 🌷 Oi, eu sou a Jéssica!
 
-🩷 Desenvolvedora Frontend em formação  
-💻 Transformando ideias em experiências digitais através do código  
-🌸 Estudando HTML, CSS e JavaScript com foco em desenvolvimento web  
-✨ Criando projetos para evoluir minhas habilidades e construir meu portfólio  
+🩷 Desenvolvedora Backend em formação
+
+💻 Apaixonada por resolver problemas e construir aplicações através do código
+
+🌸 Atualmente estudando JavaScript e me preparando para avançar em TypeScript, Node.js e Cloud
+
+✨ Compartilhando projetos que demonstram minha evolução
+
+🎯 Em busca da minha primeira oportunidade de estágio em desenvolvimento
+
 🌱 Um passo de cada vez, um commit por vez
+
+
 
 #
 
