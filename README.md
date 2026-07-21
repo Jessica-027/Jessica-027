@@ -8,7 +8,6 @@
 
 ✨ Compartilhando projetos que demonstram minha evolução
 
-🎯 Em busca da minha primeira oportunidade de estágio em desenvolvimento
 
 🌱 Um passo de cada vez, um commit por vez
 
