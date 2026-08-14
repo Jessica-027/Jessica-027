@@ -1,15 +1,4 @@
-# 🌷 Oi, eu sou a Jéssica!
 
-🩷 Desenvolvedora Backend em formação
-
-💻 Apaixonada por resolver problemas e construir aplicações através do código
-
-🌸 Atualmente estudando JavaScript e me preparando para avançar em TypeScript, Node.js e Cloud
-
-✨ Compartilhando projetos que demonstram minha evolução
-
-
-🌱 Um passo de cada vez, um commit por vez
 
 
 
