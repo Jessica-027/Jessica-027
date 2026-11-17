@@ -13,10 +13,10 @@ Atualmente, estou construindo minha base em JavaScript, Node.js, banco de dados 
 
 ### 🍄 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💻 Focada em desenvolvimento Backend.
-- ☁️ Interessada em Cloud Computing e arquitetura de aplicações.
-- 🌱 Sempre aprendendo e construindo novos projetos.
+-  Estudante de Análise e Desenvolvimento de Sistemas.
+-  Focada em desenvolvimento Backend.
+-  Interessada em Cloud Computing e arquitetura de aplicações.
+-  Sempre aprendendo e construindo novos projetos.
 
 ### 🌱 Atualmente estudando
 
